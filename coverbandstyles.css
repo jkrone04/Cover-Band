@@ -1,0 +1,13 @@
+setlist{display:inline; text-align:center;}
+
+header{color:red; font-size:50px; background-color:lightblue; display:block;}
+
+info{color:red; font-size:30px; background-color:lightblue; display:block;}
+
+record{border:3px black; margin:5px; padding: 3px; background-color:lightgray; display:block;}
+
+title{color:green; font-size:30px; font-weight:bold;}
+
+artist{color:red; display:block; font-style:italic;}
+
+genre,year{color:red; display:block;}
